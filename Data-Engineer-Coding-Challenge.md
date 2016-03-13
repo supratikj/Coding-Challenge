@@ -1,5 +1,5 @@
 # Coding challenge
-This page consists a set of coding challenges for Data Engineer role at Isentia.
+This page consists a coding challenge for Data Engineering roles at Isentia.
 
 # Purpose
 Aim of this test is three fold,
