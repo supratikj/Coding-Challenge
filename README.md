@@ -23,6 +23,7 @@ Depending on the role your are applying, please take one of the following challe
 - [UI Engineer/UI Developer - Angular](https://github.com/Isentia/Coding-Challenge/blob/master/UI-Engineer-Angular-Coding-Challenge.md)
 - [Software Engineer/Sr. Software Engineer - Full Stack JavaScript](https://github.com/Isentia/Coding-Challenge/blob/master/Software-Engineer-Full-Stack-JavaScript-Coding-Challenge.md)
 - [Automation Engineer/Continuous Delivery Lead ](https://github.com/Isentia/Coding-Challenge/blob/master/Continuous-Delivery-Coding-Challenge.md)
+- [Software Engineer - Groovy/Grails](https://github.com/Isentia/Coding-Challenge/blob/master/Software-Engineer-Groovy-Grails-Coding-Challenge.md)
 
 
 Candidate should put their test results on a public code repository hosted on Github. Once test is completed please share the Github repository URL to hiring team so they can review your work.
