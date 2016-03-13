@@ -1,5 +1,5 @@
 # Coding challenge
-This page consists a set of coding challenges for AngularJS developer role at Isentia.
+This page consists a coding challenge for UI Engineer/UI Developer - AngularJS role at Isentia.
 
 # Purpose
 Aim of this test is three fold,
