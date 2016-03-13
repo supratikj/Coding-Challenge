@@ -17,8 +17,11 @@ You will be scored on,
 - appropriate use of source control
 
 # Intructions
-Depending on the role your are applying for please take on of the following tests,
+Depending on the role your are applying, please take one of the following challenges,
 
 - [Data Engineer](https://github.com/Isentia/Coding-Challenge/blob/master/Data-Engineer-Coding-Challenge.md)
 - [UI Engineer/UI Developer - Angular](https://github.com/Isentia/Coding-Challenge/blob/master/UI-Engineer-Angular-Coding-Challenge.md)
+- [Software Engineer/Sr. Software Engineer - Full Stack JavaScript](https://github.com/Isentia/Coding-Challenge/blob/master/Software-Engineer-Full-Stack-JavaScript-Coding-Challenge.md)
 
+
+Candidate should put their test results on a public code repository hosted on Github. Once test is completed please share the Github repository URL to hiring team so they can review your work.
