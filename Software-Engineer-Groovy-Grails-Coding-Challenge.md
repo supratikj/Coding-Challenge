@@ -1,5 +1,5 @@
 # Coding challenge
-This page consists a set of coding challenges for Groovy/Grails developer role at iSentia.
+This page consists a coding challenge for Software Engineer - Groovy/Grails role at Isentia.
 
 # Purpose
 Aim of this test is three fold,
@@ -23,7 +23,7 @@ You will be scored on,
 - Once test is completed please share the Github repository URL to hiring team so they can review your work
 - Use any other third party library or package of your choice if needed
 
-# Challenge - Flickr feed viewer and search
+# Challenge - Twitter Search
 
 - Write a simple web application that reads data from Twitter public search APIs 
 - Please check the following API documentation from the following URL:
