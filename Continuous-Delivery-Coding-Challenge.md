@@ -1,5 +1,5 @@
-# CI/CD challenge
-This page consists coding challenge for Continuous Delivery roles at Isentia.
+# Automation Engineer/Continuous Delivery challenge
+This page consists coding challenge for Continuous Delivery/Automation Engineering roles at Isentia.
 
 # Purpose
 Aim of this test is three fold,
