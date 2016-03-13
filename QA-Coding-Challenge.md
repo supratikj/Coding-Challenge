@@ -1,6 +1,9 @@
-# QA Coding Challenge
+# Coding Challenge
+This page consists coding challenge for QA and QA Lead roles at Isentia.
 
-Find three issues on isentia.com and write the automated regression tests that reproduce the failure across one or more browsers.
+# Challenge - 
+
+Find three issues on Isentia[http://www.isentia.com/] and write the automated regression tests that reproduce the failure across one or more browsers.
 
 ## Functional requirements
 
