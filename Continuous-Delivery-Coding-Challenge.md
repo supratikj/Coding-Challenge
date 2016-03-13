@@ -1,5 +1,5 @@
 # CI/CD challenge
-This page consists a set of challenges for Continuous Delivery Lead role at Isentia.
+This page consists coding challenge for Continuous Delivery roles at Isentia.
 
 # Purpose
 Aim of this test is three fold,
