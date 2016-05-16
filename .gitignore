@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.DS_Store
+
+# WebStorm Stuff
+.idea
+
+# coverage stuff
+lib-cov
+/reports
+
+# test stuff
+/test/scenarios/destinationFile/output
+/test/scenarios/quietOption/output
+/test/scenarios/reporterOptions/output
